@@ -1,2 +1,2 @@
-# Self-efficiency bot
+# MemberInfo
 ### Делается в рамках выпускной работы
